@@ -12,10 +12,9 @@
             "group": "data-eng"
         },
         "https://github.com/lowtouch-ai/agent_dags": {
-            "path": "/appz/home/airflow/dags/airflow_dags",
+            "path": "/appz/home/airflow/dags/agent_dags",
             "branch": "9095/selineum_script",
-            "email": ["asurendran@ecloudcontrol.com"],
+            "email": ["aahammed@ecloudcontrol.com"],
             "group": "data-eng"
         }
-
 }
